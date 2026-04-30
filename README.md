@@ -126,7 +126,9 @@ const firebaseConfig = {
 
 https://healthcare-dashboard-lyart.vercel.app/
 
-Demo Login:
+---
+
+##  Demo Credentials
 Email: test@gmail.com
 Password: 123456
 
