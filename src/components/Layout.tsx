@@ -1,0 +1,10 @@
+import Navbar from "./Navbar";
+
+export default function Layout({ children }: any) {
+  return (
+    <div>
+      <Navbar />
+      <div className="p-6 bg-gray-100 min-h-screen">{children}</div>
+    </div>
+  );
+}
