@@ -124,7 +124,11 @@ const firebaseConfig = {
 
 ##  Live Demo
 
-(https://healthcare-dashboard-lyart.vercel.app/)
+https://healthcare-dashboard-lyart.vercel.app/
+
+Demo Login:
+Email: test@gmail.com
+Password: 123456
 
 ---
 
