@@ -124,7 +124,7 @@ const firebaseConfig = {
 
 ##  Live Demo
 
-👉 [Add your deployed link here]
+(https://healthcare-dashboard-lyart.vercel.app/)
 
 ---
 
